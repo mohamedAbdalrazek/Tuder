@@ -120,3 +120,7 @@ form{
     width: 100%;
     text-align: center;
 }
+.loading{
+    display: block;
+    margin:0 auto;
+}
