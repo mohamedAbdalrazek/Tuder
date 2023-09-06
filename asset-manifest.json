@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/Tuder/static/css/main.ed135ddd.css",
-    "main.js": "/Tuder/static/js/main.4871306a.js",
+    "main.css": "/Tuder/static/css/main.a2846d92.css",
+    "main.js": "/Tuder/static/js/main.de784b9d.js",
     "static/js/787.26b3c150.chunk.js": "/Tuder/static/js/787.26b3c150.chunk.js",
+    "static/media/Ball-1s-200px.gif": "/Tuder/static/media/Ball-1s-200px.b38913fb45cd331b20ea.gif",
     "index.html": "/Tuder/index.html",
-    "main.ed135ddd.css.map": "/Tuder/static/css/main.ed135ddd.css.map",
-    "main.4871306a.js.map": "/Tuder/static/js/main.4871306a.js.map",
+    "main.a2846d92.css.map": "/Tuder/static/css/main.a2846d92.css.map",
+    "main.de784b9d.js.map": "/Tuder/static/js/main.de784b9d.js.map",
     "787.26b3c150.chunk.js.map": "/Tuder/static/js/787.26b3c150.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ed135ddd.css",
-    "static/js/main.4871306a.js"
+    "static/css/main.a2846d92.css",
+    "static/js/main.de784b9d.js"
   ]
 }
