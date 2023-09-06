@@ -48,6 +48,7 @@ function App() {
                 const result = await response.json();
                 setLoader(false)
                 setData(result);
+                console.log(data)
             } catch (error) {
                 setLoader(false)
                 setErrorMessage(() => {
