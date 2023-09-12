@@ -11,7 +11,7 @@ Tuder is a versatile YouTube video downloader that allows you to download videos
 
 ## Demo
 
-Check out the live demo of the Education Website [here](https://mohamedabdalrazek.github.io/Education/).
+Check out the live demo of the Education Website [here](https://mohamedabdalrazek.github.io/Tuder/).
 
 
 ## Getting Started
